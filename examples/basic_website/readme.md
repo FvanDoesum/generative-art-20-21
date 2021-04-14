@@ -36,6 +36,6 @@
 
 ## Bronnenlijst
 
-* `Link naar bron 1`
+https://levelup.gitconnected.com/generative-art-3-fundamental-concepts-to-get-you-started-44205dae167b
 * `Link naar bron 2`
 * `Link naar bron 3`
